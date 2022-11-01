@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><h1>guess-the-number-c-project</h1></title>
+    <h1>guess-the-number-c-project</h1>
   </head>
   <body>
     <p>This is my first project in C.</p>
