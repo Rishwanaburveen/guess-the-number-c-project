@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>guess-the-number-c-project</title>
+    <title><h1>guess-the-number-c-project</h1></title>
   </head>
   <body>
     <p>This is my first project in C.</p>
     <br/>
-<h1>How to Play:</h1>
+<h2>How to Play:</h2>
   <ol>
     <li>The guess my number will pick a secret number in the range between 1 and 100.</li>
 <li>You guess what number it is.</li>
